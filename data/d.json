@@ -1,0 +1,42 @@
+[
+  {
+    "name": "papa",
+    "address": "rs",
+    "cuisine": "indian",
+    "website": "https://chatgpt.com/",
+    "description": "heard gud\r\n",
+    "id": "ec3c1fd3-2cec-477a-8b5f-02aefb28bde4"
+  },
+  {
+    "name": "valar",
+    "address": "lak mill",
+    "cuisine": "indian",
+    "website": "https://chatgpt.com/",
+    "description": "gud fud",
+    "id": "ba24a596-7b8d-42de-b79f-90c616511d73"
+  },
+  {
+    "name": "abi",
+    "address": "llll",
+    "cuisine": "india",
+    "website": "https://chatgpt.com/",
+    "description": "guyg",
+    "id": "91580f30-1749-4001-a2aa-b96f035521a1"
+  },
+  {
+    "name": "royal",
+    "address": "shankara",
+    "cuisine": "indian",
+    "website": "https://chatgpt.com/",
+    "description": "hdslkd",
+    "id": "cce6dc2a-971e-483c-81a4-be0f8283d695"
+  },
+  {
+    "name": "xys",
+    "address": "sar",
+    "cuisine": "ind",
+    "website": "https://chatgpt.com/",
+    "description": "asd",
+    "id": "73f03718-8a7f-45e2-b5db-2546fc0d8ca9"
+  }
+]
